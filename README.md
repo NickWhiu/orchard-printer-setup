@@ -19,13 +19,27 @@
     - Select the `Address` input box and enter `10.1.0.20`
     - Select `Protocol` dropdown and choose `Line Printer Daemon - LPD`
     - Click `Add` button at bottom/right
-4. Try to print something such as this instruction page you are reading now.
+4. Open the system print dialog
+    - Try to print something such as this instruction page you are reading now
     - `File` => `Print...`
     - In Chrome and some other applications, you need to get to the system print dialog. Only the system print dialog works at the Orchard. For Chrome, click `More settings` => `Print using system dialog`
-    - 
-
 5. Configure printer presets
-    - 
+    - If you see `Show details` button click it
+    - ensure the `Printer` dropdown has `10.1.0.20` printer selected
+    - click click the dropdown that says `Layout` and select `Job Log`
+    - Enable the `Enable User Code` checkbox
+    - Select the `User Code` input box and type `7098`
+6. Save black & white preset
+    - click the dropdown that says `Job Log` and select `Printer Features`
+    - Ensure the `Color Mode` is set to `Black and White`
+    - Open the `Presets` dropdown and click `Save Current Settings as Preset`
+    - Enter `Orchard - black & white` and click `OK`
+7. Save colour preset
+    - Ensure the `Color Mode` is set to `Color`
+    - Open the `Presets` dropdown and click `Save Current Settings as Preset`
+    - Enter `Orchard - colour` and click `OK`
+   
+
 
 ## For other operating systems
 
