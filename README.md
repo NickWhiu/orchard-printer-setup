@@ -3,7 +3,7 @@
 ## For MacOS
 
 1. Open a terminal
-    - Type `CMD`+`Space` to open application launcher
+    - Press `CMD`+`Space` keys to open application launcher
     - Search "terminal"
     - Open the Terminal app
 2. Run the install script
