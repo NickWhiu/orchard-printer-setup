@@ -7,7 +7,7 @@
     - Search "terminal"
     - Open the Terminal app
 2. Run the install script
-    - In the terminal, type `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Developers-Institute/orchard-printer-setup-macos.sh)"`
+    - In the terminal, type `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Developers-Institute/install-orchard-printer-mac.sh)"`
     - press `Enter` in the terminal to run the above command
 3. Configure the printer setup
     -
