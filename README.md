@@ -16,6 +16,7 @@
     - The `Printers & Scanners` settings dialog will have opened
     - Click the `[+]` button on the bottom/left of settings dialog
     - Click the `IP` icon with the globe icon
+    - ![screenshot-IP.png](screenshot-IP.png)
     - Select the `Address` input box and enter `10.1.0.20`
     - Select `Protocol` dropdown and choose `Line Printer Daemon - LPD`
     - Click `Add` button at bottom/right
@@ -23,6 +24,7 @@
     - Try to print something such as this instruction page you are reading now
     - `File` => `Print...`
     - In Chrome and some other applications, you need to get to the system print dialog. Only the system print dialog works at the Orchard. For Chrome, click `More settings` => `Print using system dialog`
+    - ![screenshot-printer-dialog.png](screenshot-printer-dialog.png)
 5. Configure printer presets
     - If you see `Show details` button click it
     - ensure the `Printer` dropdown has `10.1.0.20` printer selected
