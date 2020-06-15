@@ -41,7 +41,7 @@
     - Open the `Presets` dropdown and click `Save Current Settings as Preset`
     - Enter `Orchard - colour` and click `OK`
    
-
+If everything went well, you can print stuff (using the system print dialog) by selecting either b&w or colour preset and click Print.
 
 ## For other operating systems
 
