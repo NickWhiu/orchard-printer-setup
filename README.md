@@ -30,7 +30,7 @@
     - ensure the `Printer` dropdown has `10.1.0.20` printer selected
     - click click the dropdown that says `Layout` and select `Job Log`
     - Enable the `Enable User Code` checkbox
-    - Select the `User Code` input box and type `7098`
+    - Select the `User Code` input box and type your printer user code (ask the Orchard)
 6. Save black & white preset
     - click the dropdown that says `Job Log` and select `Printer Features`
     - Ensure the `Color Mode` is set to `Black and White`
