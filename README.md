@@ -2,7 +2,7 @@
 
 ## For MacOS
 
-This works in macOS Catalina 10.15.x, may or may not work on 10.14 or older.
+This works in macOS Catalina v10.15.x, may or may not work on v10.14 or older.
 
 1. Open a terminal
     - Press `CMD`+`Space` keys to open application launcher
