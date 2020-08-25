@@ -1,5 +1,7 @@
 # Orchard printer setup
 
+<img src="https://media.giphy.com/media/3hetVnNSl0IBa/source.gif" />
+
 ## For MacOS
 
 This works in macOS Catalina v10.15.x, may or may not work on v10.14 or older.
